@@ -1,2 +1,3 @@
 this is for fast farward demo
 bug fix 2 commit
+fixed the code for page not found
