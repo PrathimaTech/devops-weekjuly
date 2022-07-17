@@ -1,3 +1,5 @@
 this is for fast farward demo
 bug fix 2 commit
 fixed the code for page not found
+this is for 3 way merge demo
+this is for 3 way merge demo 2
